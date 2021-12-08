@@ -1,3 +1,9 @@
+body{
+    width: 100%;
+    height: 5000px;
+    background-color: sandybrown;
+
+}
 .login{
     margin-right: 56px;
     background-color: rgb(240, 9, 9);
@@ -37,4 +43,65 @@ image{
 }
 .menu{
     margin-top: -716px;
+}
+
+.text-center{
+    color: white;
+    font-size: 3.125rem;
+   
+    
+}
+.rong{
+    margin-top: 160px;
+    width: 640px;
+    height: 165px;
+}
+.texttwo{
+    color: white;
+    font-size: 25px;
+    margin-top: 9px;
+    text-align: center;
+}
+.textthree{
+    color: white;
+    font-size: 25px;
+    margin-top: 3px;
+    text-align: center;
+    
+}
+.mb-3{
+    height: 60px;
+    margin-left: 270px;
+    width: 550px;
+}
+.btn{
+    background-color: red;
+    width: 120px;
+}
+.mainone{
+    margin-top: 70px;
+    height: 520px;
+}
+.r{
+    background-color: rgb(45, 160, 102);
+}
+.textfor{
+    margin-top: 70px;
+    width: 400px;
+    height: 110px;
+    margin-left: 100px;
+    color: white;
+    font-size: 3.125rem;
+    line-height:  1.1;
+}
+.textfive{
+    color: white;
+    width: 410px;
+    font-size: 23px;
+    margin-left: 100px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.a{
+    margin-top: -200px;
 }
