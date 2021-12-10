@@ -1,7 +1,7 @@
 body{
     width: 100%;
     height: 5000px;
-    background-color: sandybrown;
+    background-color: gray;
 
 }
 .login{
@@ -40,6 +40,7 @@ body{
 }
 image{
     padding-left: 0px;
+    padding-right: 0px;
 }
 .menu{
     margin-top: -716px;
@@ -48,6 +49,7 @@ image{
 .text-center{
     color: white;
     font-size: 3.125rem;
+    
    
     
 }
@@ -81,12 +83,13 @@ image{
 .mainone{
     margin-top: 70px;
     height: 520px;
+    background-color: black;
 }
 .r{
-    background-color: rgb(45, 160, 102);
+   
 }
 .textfor{
-    margin-top: 70px;
+    margin-top: 117px;
     width: 400px;
     height: 110px;
     margin-left: 100px;
@@ -102,6 +105,118 @@ image{
     font-weight: 400;
     margin-top: 10px;
 }
+.our-story-card-animation{
+    margin-top: -383px;
+    margin-left: 75px;
+}
+.textsix{
+    font-size: 3.125rem;
+    line-height:  1.1;
+    width: 600px;
+    color: white;
+    
+    margin-top: 86px;
+    margin-left: 49px;
+    
+}
+.textsevent{
+    color: white;
+    width: 500px;
+    font-size: 23px;
+    margin-left: 50px;
+    font-weight: 400;
+    margin-top: 10px;
+}
 .a{
-    margin-top: -200px;
+    height: 520px;
+    background-color: black;
+    
+}
+.textnice{
+    font-size: 3.125rem;
+    line-height:  1.1;
+    width: 600px;
+    color: white;
+    
+    margin-top: 36px;
+    margin-left: 118px;
+}
+.textten{
+    color: white;
+    width: 500px;
+    font-size: 24px;
+    margin-left: 116px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.b{
+    height: 284px;
+    background-color: black;
+    padding-right: 0px;
+}
+.textelevent{
+    font-size: 3.125rem;
+    line-height:  1.1;
+    width: 600px;
+    color: white;
+    
+    margin-top: 156px;
+    margin-left: 61px;
+}
+.texttwent{
+    color: white;
+    width: 500px;
+    font-size: 24px;
+    margin-left: 69px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.c {
+    width: 504px;
+    height: 378px;
+    margin-left: 115px;
+    margin-top: 76px;
+}
+.g{
+    height: 530px;
+    background-color: black;
+    
+}
+
+.textthirteen{
+    font-size: 3.125rem;
+    line-height:  1.1;
+    width: 559px;
+    color: white;
+    
+    margin-top: 86px;
+    margin-left: 116px;
+}
+.textforteen{
+    color: white;
+    width: 500px;
+    font-size: 23px;
+    margin-left: 116px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.textfiteen{
+    color: white;
+    width: 559px;
+    font-size: 23px;
+    margin-left: 116px;
+    font-weight: 400;
+    margin-top: 10px;
+
+}
+.e{
+    width: 504px;
+    height: 347px;
+    margin-top: 92px;
+    margin-left: 70px;
+}
+.f{
+    height: 569px;
+    background-color: black;
+    padding-right: 0px;
 }
