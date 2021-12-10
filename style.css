@@ -1,0 +1,201 @@
+body{
+    width: 100%;
+    height: 5000px;
+    background-color: darkgray;
+}
+.login{
+    margin-right: 56px;
+    background-color: rgb(240, 9, 9);
+    height: 36px;
+    text-align: center;
+    
+    
+}
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+   
+}
+.logo{ background-color: black; 
+    height: 42px; 
+    width: 125px; 
+    text-align: center;
+}
+.Language{
+    margin-right: 40px;
+    background-color: black;
+    
+    
+}
+.text{
+    color:white ;
+    text-align: center;
+    margin-top: -4px;
+    
+}
+.img-fluid {
+    height: 680px;
+    width: 100%;
+}
+image{
+    padding-left: 0px;
+}
+.menu{
+    margin-top: -716px;
+}
+
+.text-center{
+    color: white;
+    font-size: 3.125rem;
+   
+    
+}
+.rong{
+    margin-top: 160px;
+    width: 640px;
+    height: 165px;
+}
+.texttwo{
+    color: white;
+    font-size: 25px;
+    margin-top: 9px;
+    text-align: center;
+}
+.textthree{
+    color: white;
+    font-size: 25px;
+    margin-top: 3px;
+    text-align: center;
+    
+}
+.mb-3{
+    height: 60px;
+    margin-left: 270px;
+    width: 550px;
+}
+.btn{
+    background-color: red;
+    width: 120px;
+    margin-left: 50px;
+}
+.mainone{
+    margin-top: 65px;
+    height: 520px;
+    background-color: black;
+}
+.r{
+    background-color: black;
+}
+.textfor{
+    margin-top: 110px;
+    width: 400px;
+    height: 110px;
+    margin-left: 100px;
+    color: white;
+    font-size: 3.125rem;
+    line-height:  1.1;
+}
+.textfive{
+    color: white;
+    width: 410px;
+    font-size: 23px;
+    margin-left: 100px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.a{
+    margin-top: -200px;
+}
+.maintow{
+    margin-top: 7px;
+    height: 520px;
+    background-color: black;
+}
+.textsix{
+    margin-top: 115px;
+    width: 400px;
+    height: 110px;
+    margin-left: 95px;
+    color: white;
+    font-size: 44px;
+    line-height:  1.1;
+    
+}
+.textseven{
+    color: white;
+    width: 410px;
+    font-size: 23px;
+    margin-left: 100px;
+    font-weight: 400;
+    margin-top: 70px;
+}  
+.mainthree{
+    margin-top: 7px;
+    height: 280px;
+    background-color: black;
+}
+.textet{
+    color: white;
+    font-size: 44px;
+    margin-left: 175px;
+    margin-top: 50px
+
+    
+}
+.textnine{
+    color: white;
+    font-size: 23px;
+    margin-left: 175px;
+    margin-top: 20px;
+
+}
+.mainfour{
+    margin-top: 7px;
+    height: 520px;
+    background-color: black;
+}
+.text10{
+    margin-top: 115px;
+    width: 400px;
+    height: 110px;
+    margin-left: 95px;
+    color: white;
+    font-size: 44px;
+    line-height:  1.1;
+    
+}
+.textten{
+    color: white;
+    width: 410px;
+    font-size: 23px;
+    margin-left: 100px;
+    font-weight: 400;
+    margin-top: 20px;
+}  
+.mainfive{
+    margin-top: 7px;
+    height: 520px;
+    background-color: black;
+}
+.text11{
+    margin-top: 110px;
+    width: 400px;
+    height: 110px;
+    margin-left: 100px;
+    color: white;
+    font-size: 3.125rem;
+    line-height:  1.1;
+}
+.textel{
+    color: white;
+    width: 410px;
+    font-size: 23px;
+    margin-left: 100px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.our-story-card-img{
+    width: 410px;
+    height: 400px;
+
+}
