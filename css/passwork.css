@@ -1,0 +1,53 @@
+.a{
+    width: 440px;
+    height: 501px;
+    margin-left: 443px;
+    
+    
+}
+.b{
+    width: 440px;
+    height: 501px;
+}
+.btn-danger{
+    width: 400px;
+    height: 70px;
+}
+.form-control{
+    width: 400px;
+    height: 60px;
+}
+.text{
+    margin-left: 60px;
+    
+    
+
+}
+.ft{
+    background-color: #f3f3f3;
+    height: 800px;
+}
+.logo{
+    width: 241px;
+    height: 46px;
+    margin-top: 16px;
+    margin-left: -33px;
+}
+.head{
+    height: 90px;
+   border-bottom: #551414;
+}
+.login{
+    color: #333;
+    font-weight: 700;
+    font-size: 19px;
+    margin-top: 19px;
+    margin-right: 5px;
+    
+}
+.step1{
+    font-size: 13px;
+}
+.hello{
+    font-size: 32px;
+}

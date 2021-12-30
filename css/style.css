@@ -307,6 +307,7 @@ body{
     height: 500px;
     padding-right: 0px;
 }
+<<<<<<< HEAD
 
 .ftone {
     width: 740px;
@@ -314,6 +315,13 @@ body{
 }
 
 .fttwo {
+=======
+.ftone{
+    width: 740px;
+    margin-left: 300px;
+}
+.fttwo{
+>>>>>>> 72089a39851113fe732695c2b0ad3bd38e32b6a2
     margin-top: -186px;
     width: 740px;
     margin-left: 300px;
