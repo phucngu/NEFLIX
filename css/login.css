@@ -18,7 +18,7 @@ body{
 }
 
 .img-fluid {
-    height: 680px;
+    height: 880px;
     width: 100%;
 }
 .image{
@@ -28,42 +28,37 @@ body{
 .menu{
     margin-top: -716px;
 }
-.container-tow{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.bg {
+	
+	background-size: cover;
+	width: 100%;
+	height: 100%;
 }
-.container-tow .form{
+.row-container {
     width: 450px;
     height: 600px;
-    background: #000000BF;
+	border: 1px solid black;
+	background: #000000BF;
+	margin-top: -160px; 
+	padding: 30px;
+
+	
+.label, .form-check-label, h1 {
+	color: #333333;	
+	text-shadow: 2px 2px 10px #000;
 }
-.form h1{
-    position: relative;
-    margin: 0 0 28px;
-    padding-bottom: 12px;
-    width: fit-content;
-    font-size: 36px;
-    text-align: center;
-    color: thistle;
+.form .help{
+    margin-right: 200px;
+    color: chartreuse;
 }
-.form button{
-    width: 100%;
-    height: 35px;
-    background: transparent;
-    color: white;
-    background-color: red;
-    margin-top: 30px;
+.emailError, .passwordError {
+	color: red;
+	background-color: blanchedalmond;
+	padding-left: 10px;
+	border-radius: 4px;
+	margin-top: 1px;
+}
+.button, .
 
 
-}
 
-.form-one input{
-    width: 310px;
-    height: 50px;
-}
-
-
-}
