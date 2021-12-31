@@ -1,0 +1,28 @@
+.logo{
+    width: 241px;
+    height: 46px;
+    margin-top: 16px;
+    margin-left: -33px;
+}
+.head{
+    height: 90px;
+   border-bottom: #551414;
+}
+.ft{   
+    background-color: #f3f3f3;
+    height: 800px;
+}
+.b{
+    width: 340px;
+    height: 498px;
+}
+.text{
+    margin-left: 60px;
+    
+    
+
+}
+.btn-danger{
+    width: 340px;
+    height: 70px;
+}
