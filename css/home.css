@@ -12,3 +12,6 @@
 .content{
   margin-top: 400px;
 }
+.icon-bar{
+  position: fixed;
+}
