@@ -36,6 +36,7 @@
 .head{
     height: 90px;
    border-bottom: #551414;
+   border-bottom: 1px solid #f3f3f3;
 }
 .login{
     color: #333;
@@ -50,4 +51,14 @@
 }
 .hello{
     font-size: 32px;
+}
+@media only screen and (max-width:740px) {
+    .a{
+        margin-left: 55px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:998px){
+    .a{
+        margin-left: 250px;
+    }
 }

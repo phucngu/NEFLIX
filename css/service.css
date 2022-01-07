@@ -7,6 +7,7 @@
 .head{
     height: 90px;
    border-bottom: #551414;
+   border-bottom: 1px solid #f3f3f3;
 }
 .ft{   
     background-color: #f3f3f3;
@@ -15,8 +16,8 @@
 .b{
     width: 340px;
     height: 498px;
-    margin-left: 0px;
-    margin-top: 0px;
+    margin-left: 415px;   
+    margin-top: 39px;
 }
 .text{
     margin-left: 60px;
@@ -27,4 +28,25 @@
 .btn-danger{
     width: 340px;
     height: 70px;
+}
+.tick{
+    
+    font-size: 45px;
+    margin-left: 135px;
+
+    
+}
+.step1{
+    margin-left: 126px;
+
+}
+@media only screen and (max-width:740px) {
+    .b{
+        margin-left: 69px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:998px){
+    .b{
+        margin-left: 200px;
+    }
 }

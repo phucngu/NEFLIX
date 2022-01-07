@@ -1,0 +1,28 @@
+.logo{
+    width: 241px;
+    height: 46px;
+    margin-top: 16px;
+    margin-left: -33px;
+}
+.head{
+    height: 90px;
+   border-bottom: #551414;
+   border-bottom: 1px solid #f3f3f3;
+}
+.ft{   
+    background-color: #f3f3f3;
+    height: 800px;
+}
+.a{
+    display: flex;
+}
+.content{
+    width: 500px;
+    height: 333px;
+    margin-top: 30px;
+    margin-left: 350px;
+}
+.icon{
+    margin-left: 206px;
+    font-size: 40px;
+}
