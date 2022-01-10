@@ -2,29 +2,69 @@
   padding: 0;
   margin: 0;
 }
+body{
+  width: 100%;
+  height: 1600px;
+  background:black;
+}
 .header{
   width: 100%;
-  height: 400px;
-  background-color: aqua;
+  height: 500px;
+  background-color: black;
   position: fixed;
   margin-left: 100px;
+  color: white;
 }
 .tenphim{
+  font-family: cursive;
   width: 200px;
   height: 250px;
+  color: white;
+ 
 }
 .h1{
+<<<<<<< HEAD
   height: 200px;
   width: 100px;
 }
 
 body{
   background-color: black;
+=======
+ width: 116px;
+ height: 331px;
+  
+}
+
+
+.container{
+  margin-top: 40px;
+}
+.hd{
+  margin-top: 80px;
+}
+.khop{
+  margin-top: 20px;
+  color: aqua;
+}
+.sx{
+  margin-top: 20px;
+  font-family: Fantasy;
+}
+.noidung{
+  margin-top: 20px;
+  font-family: Fantasy;
+
+}
+.theloai{
+  margin-top: 20px;
+  font-family: Fantasy;
+>>>>>>> a95446a47527e39defef715e6380b804ecaa8f87
 }
 .sidebar{
   width:70px;
   height:600px;
-  margin-top: 50px;
+  margin-top: 55px;
   background-color:black;
   position:fixed;
 }
@@ -35,9 +75,9 @@ body{
 }
 
 .icon{
-  width: 35px;
-  height: 35px;
-  margin-top: 25px;
+  width: 25px;
+  height: 30px;
+  margin-top: 30px;
   background-color: white;
  
 }
