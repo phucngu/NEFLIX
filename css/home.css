@@ -81,3 +81,15 @@ body{
   width: 35px;
 
 }
+.main{
+  margin-left: 61px;
+  width: 1252px;
+  background-color: black;
+  margin-top: 400px;
+  height: 500px;
+}
+.film{
+  width: 120px;
+  height: 150px;
+  margin-top: 20px;
+}
