@@ -1,0 +1,88 @@
+.logo{
+    width: 241px;
+    height: 46px;
+    margin-top: 16px;
+    margin-left: -33px;
+}
+.head{
+    height: 90px;
+   border-bottom: #551414;
+   border-bottom: 1px solid #f3f3f3;
+}
+.ft{   
+    background-color: #f3f3f3;
+    height: 250px;
+    margin-top: 200px;
+}
+.language {
+    
+    border: 2px solid black;
+}
+.text{
+    margin-left: 20px;
+}
+.content{
+    width: 846px;
+    height: 950px;
+    margin-left: 150px;
+}
+
+.bd{
+    border-bottom: 1px solid gray;
+}
+.one{
+    height: 120px;
+    background-color:white;
+}
+.option{
+    width: 124px;
+    height: 120px;
+    background-color: #e50914;
+    margin-left: 30px;
+}
+.option1{
+    width: 300px;
+    background-color: white;
+    height: 120px;
+}
+.a{
+    color: white;
+    margin-top: 40px;
+}
+.two{
+    height: 60px;
+    border-bottom: 1px solid gray;
+    margin-top: 10px;
+}
+.option2{
+    width: 300px;
+    background-color: white;
+    height: 59px;
+}
+.price{
+    width: 124px;
+    height: 59px;
+    margin-left: 30px;
+}
+.phone{
+    font-size: 25px;
+    margin-left: 37px;
+}
+.tablet{
+    font-size: 33px;
+    margin-left: 37px;
+}
+.computer{
+    font-size: 33px;
+    margin-left: 33px;
+   
+}
+.tv{
+    font-size: 33px;
+    margin-left: 31px;
+}
+.btn{
+    width: 400px;
+    height: 64px;
+    margin-left: 200px;
+}
