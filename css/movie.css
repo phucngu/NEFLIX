@@ -1,0 +1,104 @@
+body{
+    width: 100%;
+    height: 1600px;
+    background-color: gray;
+
+}
+.login{
+    margin-top: 70px;
+    margin-right: 56px;
+    background-color: rgb(240, 9, 9);
+    height: 36px;
+    text-align: center;
+    
+    
+}
+.logo{
+    margin-top: 70px;
+    width: 116px;
+    height: 36;
+}
+
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+   
+}
+.icon{
+    margin-top: 70px;
+    margin-right: 56px;
+    text-align: center;
+
+}
+.serch{
+    margin-top: 70px;
+    margin-right: 56px;
+    
+  
+}
+
+.anh{
+    width: 100%;
+    height: 600px;
+}
+
+.fa{
+    background-color: black;
+}
+
+.text{
+    color:white ;
+    text-align: center;
+    margin-top: -4px;
+    
+}
+.img-fluid {
+    height: 680px;
+    width: 100%;
+}
+.image{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.menu{
+    margin-top: -716px;
+}
+
+.text-center{
+    color: white;
+    font-size: 3.125rem;
+    
+   
+    
+}
+.main{
+    width: 100%;
+    height: 100px;
+}
+.row{
+    color: white;
+    size: 100px;
+    margin-right: 100px;
+}
+.text-center{
+    color: white;
+    font-size: 50px 
+}
+.one{
+    margin-top: -100px;
+    width: 240px;
+    height: 165px;
+}
+.two{
+    margin-top: 20px;
+    color:pink;
+    font-size: 30px;
+    margin-top: 9px;
+    text-align: center;
+}
+.three{
+    color: pink;
+    font-size: 30px;
+    margin-top: 3px;
+    text-align: center;
+}
