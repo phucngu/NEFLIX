@@ -8,7 +8,7 @@ body{
     background:black;
 }
 .container-one{
-    width: 300px;
+    width: 00px;
     height: 200px;
     color: white;
 
@@ -26,4 +26,6 @@ body{
 }
 .col{
   margin: 20px;
+  
 }
+
