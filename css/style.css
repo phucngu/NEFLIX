@@ -441,3 +441,33 @@ body{
         height: 700px;
     }
 }
+
+@media only screen and (min-width:768px) and (max-width:1024px){
+    .tablet{
+        display: block;
+    }
+    .mb-3{
+        margin-left: 50px;
+    }
+    .textthirteen{
+        margin-left: 30px;
+    }
+    .textforteen{
+        margin-left: 30px;
+    }
+    .textfiteen{
+        margin-left: 30px;
+    }
+    .accordion{
+        margin-left: 30px;
+    }
+    .mt-4{
+        margin-left: 70px;
+    }
+    .ftone{
+        margin-left: 50px;
+    }
+    .fttwo{
+        margin-left: 50px;
+    }
+}
