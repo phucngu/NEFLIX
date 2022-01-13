@@ -1,22 +1,15 @@
 body{
     width: 100%;
-    height: 1600px;
+    height: 750px;
     background-color: gray;
 
 }
-.login{
-    margin-top: 70px;
-    margin-right: 56px;
-    background-color: rgb(240, 9, 9);
-    height: 36px;
-    text-align: center;
-    
-    
-}
+
 .logo{
-    margin-top: 70px;
-    width: 116px;
-    height: 36;
+    margin-top: -180px;
+    width: 120px;
+    height: 50px;
+    margin-left: 30px;
 }
 
 .container-fluid{
@@ -24,34 +17,15 @@ body{
     padding-right: 0px;
    
 }
-.icon{
-    margin-top: 70px;
-    margin-right: 56px;
-    text-align: center;
-
-}
-.serch{
-    margin-top: 70px;
-    margin-right: 56px;
-    
-  
-}
-
 .anh{
     width: 100%;
-    height: 600px;
+    height: 800px;
 }
 
 .fa{
     background-color: black;
 }
 
-.text{
-    color:white ;
-    text-align: center;
-    margin-top: -4px;
-    
-}
 .img-fluid {
     height: 680px;
     width: 100%;
@@ -63,42 +37,54 @@ body{
 .menu{
     margin-top: -716px;
 }
-
-.text-center{
+.header{
+    margin-left: 60px;
     color: white;
-    font-size: 3.125rem;
-    
-   
-    
-}
-.main{
-    width: 100%;
-    height: 100px;
-}
-.row{
-    color: white;
-    size: 100px;
-    margin-right: 100px;
-}
-.text-center{
-    color: white;
-    font-size: 50px 
 }
 .one{
-    margin-top: -100px;
-    width: 240px;
-    height: 165px;
+    font-size: 150px;
+    margin-top: -40px;
+    color: red;
 }
-.two{
+.tow{
     margin-top: 20px;
-    color:pink;
-    font-size: 30px;
-    margin-top: 9px;
-    text-align: center;
+    
+}
+.khop{
+    font-size: 20px;
+    color: aqua;
+}
+.sx{
+    font-size: 20px;
+}
+.hd{
+    font-size: 20px;
 }
 .three{
-    color: pink;
-    font-size: 30px;
-    margin-top: 3px;
-    text-align: center;
+    margin-top: 30px;
+    font-size: 60px;
+}
+.four{
+    margin-top: 30px;
+    font-size: 20px;
+    color: dimgrey;
+}
+.five{
+    margin-top: 5px;
+ 
+}
+.six{
+    margin-top: 5px;
+   
+}
+.seven{
+    margin-top: 5px;
+}
+.nice{
+    margin-top: 5px;
+}
+.btn{
+    color: white;
+    background-color: black;
+    font-size: 20px;
 }
