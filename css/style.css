@@ -28,10 +28,13 @@ body{
 }
 .dropdown{
     margin-right: 40px;
-    background: black;
+    
 
     
     
+}
+.ta{
+    color: white;
 }
 .text{
     color:white ;
@@ -57,6 +60,9 @@ body{
     
    
     
+}
+.xem{
+    margin-top: 50px;
 }
 .rong{
     margin-top: 160px;
@@ -324,6 +330,26 @@ body{
     margin-left: 300px;
 }
 .language {
-    
+    background-color: #000000BF;
     border: 2px solid #303030;
+}
+
+@media only screen and (max-width:740px) {
+    .dropdown{
+        margin-right: 10px;
+    }
+    .text-center {
+        width:500px ;
+        height: 92px;
+        font-size:1.75rem;
+    }
+    .loai{
+        display: none;
+    }
+    .xem{
+        margin-top: -47px;
+    }
+    .mb-3{
+        margin-left: 10px;
+    }
 }
