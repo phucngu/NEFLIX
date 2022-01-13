@@ -323,3 +323,7 @@ body{
     width: 740px;
     margin-left: 300px;
 }
+.language {
+    
+    border: 2px solid #303030;
+}

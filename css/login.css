@@ -125,5 +125,32 @@ body{
     overflow: hidden;
   }
 
+  
+.ft {
+    background-color: black;
+    height: 500px;
+    padding-right: 0px;
+}
+
+
+.ftone {
+    width: 740px;
+    margin-left: 300px;
+}
+
+
+.fttwo{
+
+    margin-top: -186px;
+    width: 740px;
+    margin-left: 300px;
+}
+.dr {
+    
+    border: 2px solid #630dd3;
+    width: 120px;
+}
+
+
 
 

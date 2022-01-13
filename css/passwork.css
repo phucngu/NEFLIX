@@ -61,10 +61,12 @@
     .a{
         margin-left: 55px;
     }
+    
 }
 @media only screen and (min-width:768px) and (max-width:998px){
     .a{
         margin-left: 250px;
     }
+
 }
 
