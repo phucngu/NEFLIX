@@ -334,7 +334,7 @@ body{
     border: 2px solid #303030;
 }
 
-@media only screen and (max-width:740px) {
+@media only screen and (max-width:780px) {
     .dropdown{
         margin-right: 10px;
     }
@@ -351,5 +351,93 @@ body{
     }
     .mb-3{
         margin-left: 10px;
+    }
+    .our-story-card-video {
+        width: 283px;
+        height: 164px;
+        margin-top: 344px;
+        margin-left: 25px;
+    }
+    .textfor{
+        margin-left: 40px;
+    }
+    .textfive{
+        margin-top: -64px;
+        font-size: 20px;
+        margin-left: 40px;
+        width: 400px;
+    }
+    .girl{
+        width: 484px;
+        height: 280px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    
+    .textsix{
+        text-align: center;
+        margin-top: 10px;
+        margin-left:40px ;
+        width: 400px;
+        font-size: 30px;
+    }
+    .textsevent{
+        width: 400px;
+    }
+
+    .textnice{
+        margin-left: 50px;
+        
+    }
+    .textten{
+        margin-left: 50px;
+        width: 400px;
+    }
+    .c{
+        width: 496px;
+        height: 300px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .textelevent{
+        margin-top: 0px;
+        margin-left: 50px;
+    }
+    .texttwent{
+        font-size: 20px;
+        width: 400px;
+        margin-left: 50px;
+    }
+    .textthirteen{
+        font-size: 20px;
+        width: 400px;
+        margin-left: 50px;
+    }
+    .textforteen{
+        font-size: 20px;
+        width: 400px;
+        margin-left: 50px;
+    }
+    .textfiteen{
+        display: none;
+    }
+    .e{
+        width: 496px;
+        height: 300px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .ch{
+        margin-left: -315px;
+    }
+    .ftext{
+        margin-left: -250px;
+    }
+    .ftext2{
+        margin-top: 200px;
+        margin-left: -250px;
+    }
+    .ft{
+        height: 700px;
     }
 }
