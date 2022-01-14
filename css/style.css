@@ -26,6 +26,8 @@ body{
 .fa{
     background-color: black;
 }
+
+
 .dropdown{
     margin-right: 40px;
     
@@ -36,6 +38,7 @@ body{
 .ta{
     color: white;
 }
+
 .text{
     color:white ;
     text-align: center;
@@ -90,6 +93,10 @@ body{
 .btn{
     
     width: 120px;
+}
+.sign{
+    color: white;
+    background-color: red;
 }
 .start{
     height: 60px;
