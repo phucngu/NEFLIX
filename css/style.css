@@ -17,6 +17,9 @@ body{
     padding-right: 0px;
    
 }
+.maiefirts{
+    display: flex;
+}
 .logo{
     margin-left: 56px;
     background-color:black;
@@ -27,11 +30,7 @@ body{
     background-color: black;
 }
 .dropdown{
-    margin-right: 40px;
-    
-
-    
-    
+  margin-left: 900px;
 }
 .ta{
     color: white;
@@ -445,6 +444,12 @@ body{
 @media only screen and (min-width:768px) and (max-width:1024px){
     .tablet{
         display: block;
+    }
+    .btn{
+        
+    }
+    .dropdown{
+        margin-left: 400px;
     }
     .mb-3{
         margin-left: 50px;
